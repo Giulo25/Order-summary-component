@@ -75,7 +75,7 @@ h1 {
 }
 .card-price p:last-child {
   color: hsl(224, 23%, 55%);
-  text-align: start;
+
 }
 
 .card-btn {
