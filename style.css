@@ -103,7 +103,9 @@ h1 {
 }
 
 .attribution {
-  margin: 5rem 0rem;
+  max-width: 44rem;
+  margin: 0 auto;
+  margin-top: 2rem;
 }
 
 /* Media queries */
